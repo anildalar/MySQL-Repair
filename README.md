@@ -1,5 +1,5 @@
 # MySQL-Repair
-Create a file mysql_repaid.cmd and paste below content in it
+Create a file mysql_repaid.cmd paste the below content in it and save and run the file as administrator
 <pre>
   @echo off
 REM Specify the XAMPP installation directories
